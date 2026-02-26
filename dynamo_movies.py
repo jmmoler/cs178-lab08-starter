@@ -1,4 +1,5 @@
-# Lab 8 - Joseph Mole
+# Lab 8 - Joseph Moler
+# Version 2
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
